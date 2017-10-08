@@ -1,0 +1,17 @@
+Content\anime_girl.xnb
+Content\SpriteFont1.xnb
+Content\hd.xnb
+Content\hp.xnb
+Content\hp1.xnb
+Content\SpriteFont2.xnb
+Content\anime_girl2.xnb
+Content\Fantasy.xnb
+Content\anime_girl3.xnb
+Content\anime_girl4.xnb
+Content\anime_girl5.xnb
+Content\zbuku.xnb
+Content\zbuku.wma
+Content\mob1.xnb
+Content\tlo.xnb
+Content\tlo1.xnb
+Content\mob2.xnb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clicker", "WindowsGame1\WindowsGame1\Clicker.csproj", "{8F81D8CF-3565-4DA5-829E-BBD2D0821E2C}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ClickerGame1Content", "WindowsGame1\WindowsGame1Content\ClickerGame1Content.contentproj", "{7ABD5458-6AC6-49DB-B6BE-B7A2A4BE4659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F81D8CF-3565-4DA5-829E-BBD2D0821E2C}.Debug|x86.ActiveCfg = Debug|x86
+		{8F81D8CF-3565-4DA5-829E-BBD2D0821E2C}.Debug|x86.Build.0 = Debug|x86
+		{8F81D8CF-3565-4DA5-829E-BBD2D0821E2C}.Release|x86.ActiveCfg = Release|x86
+		{8F81D8CF-3565-4DA5-829E-BBD2D0821E2C}.Release|x86.Build.0 = Release|x86
+		{7ABD5458-6AC6-49DB-B6BE-B7A2A4BE4659}.Debug|x86.ActiveCfg = Debug|x86
+		{7ABD5458-6AC6-49DB-B6BE-B7A2A4BE4659}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
